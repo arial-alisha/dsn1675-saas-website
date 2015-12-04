@@ -92,3 +92,28 @@ a:focus {
     top: 0;
 }
     
+
+label {
+    display: block;
+    cursor: pointer;
+} 
+
+input + label {
+    display: inline;
+}
+
+input {
+    border: 3px solid grey;
+    background-color: purple;
+    border-radius: 10px;
+    font-size: 2rem;
+    padding: 1em;
+}
+
+button {
+    font-size: 2rem;
+    padding: 1em;
+    border-radius: 10px;
+    border: 3px solid yellow;
+    background-image: linear-gradient(purple, darkpurple);
+}
