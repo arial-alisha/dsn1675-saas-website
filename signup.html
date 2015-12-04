@@ -8,7 +8,7 @@
 	<link href="css/main.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Roboto:700,300' rel='stylesheet' type='text/css'>
     
-    <title>Virtual Cookbook</title>
+    <title>Forms</title>
     <meta name="handheldfriendly" content="true">
     <meta name="mobileoptimized" content="240">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -28,9 +28,9 @@
         
         <nav id="nav" class="unit s-1-2 m-1-2 l-2-3">
             <ul class="list-group list-group--inline push-0 mega gutter nodecoration"> 
+                <li><a href="home.html">Home</a></li>
                 <li><a href="tour.html">Tour</a></li>
                 <li><a href="pricing.html">Pricing</a></li>
-                <li><a href="signup.html">Sign up</a></li>
             </ul>
         </nav>
         </div>
@@ -39,8 +39,64 @@
     
     <main role="main" id="main">
     <h1 class="pad-t"> Let's get started!</h1>
-    
+  
     </main>
+    
+<form action="https://formspree.io/alisha194@hotmail.com" method="post">
+    
+    </form>
+    
+    <form>
+        <div>
+            <label for="name">Name</label>
+            <input id="name" name="name">
+        </div>
+    
+        <div>
+            <label for="email">Email</label>
+            <input id="email" type="email" name="email" required placeholder="you@yours.com"> 
+        </div>
+        
+        <div>
+        
+            <label for="subject">Select your package</label>
+            <select id="subject" name="subject">
+                <option>30 day free trial</option>
+                <option>Starter $1/month</option>
+                <option>Regular $5/month</option>
+                <option>Premium $10/month</option>
+            </select>
+        </div>
+        
+        <fieldset>
+            <legend>What is your skill level?</legend>
+            
+            <input id="beginner" type="radio" name="feels">
+            <label for="beginner">Beginner</label>
+            
+            <input id="happy" type="radio" name="feels">
+            <label for="happy">Have some knowledge and practice</label>
+            
+            <input id="good" type="radio" name="feels">
+            <label for="good">I am already a good cook</label>
+            
+            <input id="expert" type="radio" name="feels">
+            <label for="expert">Expert</label>
+            
+            <input id="unsure" type="radio" name="feels">
+            <label for="unsure">Not sure</label>
+        </fieldset>
+        
+        <div>
+            <label for="message">Message</label>
+            <textarea id="message"></textarea>
+        </div>
+        
+        <div>
+            <button type="submit">Send!</button>
+        </div>
+    
+    </form>
     
     <footer> 
         <div class="grid">
