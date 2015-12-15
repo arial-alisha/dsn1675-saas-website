@@ -1,5 +1,6 @@
 html {
     font-family: 'Roboto', sans-serif;
+    color: #643420; 
     
 }
 
@@ -29,7 +30,7 @@ h1 {
 }
 
 .back1 { 
-    background-color: #cccccc;
+    background-color: #EBDFC0;
 }
 
 .back2 {
@@ -92,6 +93,12 @@ a:focus {
 .skip-links a:focus { 
     top: 0;
 }
+
+.maxwidth {
+    max-width: 35em;
+    margin-left: auto;
+    margin-right: auto;
+}
     
 
 label {
@@ -117,4 +124,8 @@ button {
     border-radius: 10px;
     border: 3px solid yellow;
     background-image: linear-gradient(purple, darkpurple);
+}
+
+.btn {
+    background-color: #A68569;
 }
