@@ -106,6 +106,7 @@ a:focus {
 label {
     display: block;
     cursor: pointer;
+    text-align: center;
 } 
 
 input + label {
@@ -113,19 +114,20 @@ input + label {
 }
 
 input {
-    border: 3px solid grey;
-    background-color: purple;
+    text-align: center;
+    border: 2px solid;
     border-radius: 10px;
-    font-size: 2rem;
+    border-color: #EBDFC0;  
+    font-size: 1rem;
     padding: 1em;
 }
 
 button {
+    background-color: white;
     font-size: 2rem;
     padding: 1em;
-    border-radius: 10px;
-    border: 3px solid yellow;
-    background-image: linear-gradient(purple, darkpurple);
+    border-radius: 5px;
+    border: 2px solid #EBDFC0;
 }
 
 .btn {
