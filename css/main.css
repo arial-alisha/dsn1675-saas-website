@@ -111,6 +111,7 @@ label {
 
 input + label {
     display: inline;
+    text-align: center;
 }
 
 input {
@@ -120,6 +121,18 @@ input {
     border-color: #EBDFC0;  
     font-size: 1rem;
     padding: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    display: block;
+    align-content:center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
 }
 
 button {
@@ -132,4 +145,8 @@ button {
 
 .btn {
     background-color: #A68569;
+}
+
+center { 
+    text-align: center;
 }
