@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_1_" cx="150" cy="150" rx="102.2" ry="102.2"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#D7D3D4"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			
+				<image overflow="visible" width="460" height="276" xlink:href="../../../Interaction Design 2/Box-card-index-of-recipes-008.jpg"  transform="matrix(0.7248 0 0 0.7409 744.5911 -32.5178)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<path fill="#DBC98D" stroke="#A7866A" stroke-width="10" stroke-miterlimit="10" d="M91.9,103.8v67.4c0,0,48.6-4.9,60.9,14.3
+			c0,0,17.2-20.8,62.1-12.7v-69.1c0,0-49.4-6.5-61.5,16.3C153.4,120.1,144.6,98.4,91.9,103.8z"/>
+		<path fill="#653520" d="M86.2,115.6v63.8c0,0,52.3-6.5,64.2,13.1H78v-76.8H86.2z"/>
+		<path fill="#653520" d="M220.3,115.6v63.8c0,0-52.3-6.5-64.2,13.1h72.3v-76.8H220.3z"/>
+		<line fill="none" stroke="#A7866A" stroke-width="10" stroke-miterlimit="10" x1="153.4" y1="120.1" x2="153.4" y2="182.3"/>
+	</g>
+</g>
+<path fill="#653520" d="M654.3,206.5H422.9c-11.7,0-21.2-9.5-21.2-21.2v-20c0-11.7,9.5-21.2,21.2-21.2h231.4
+	c11.7,0,21.2,9.5,21.2,21.2v20C675.5,197,666,206.5,654.3,206.5z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
